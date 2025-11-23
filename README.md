@@ -126,3 +126,70 @@ css
 bootstrap icon
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+hhhhhh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us</title>
+
+  <!-- Bootstrap -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+
+  <style>
+    .info-box {
+      border: 1px solid #eee;
+      padding: 25px;
+      border-radius: 10px;
+      background: #fff;
+      transition: 0.3s;
+    }
+
+    .info-box:hover {
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+      transform: translateY(-4px);
+    }
+
+    .contact-form button {
+      background-color: #f6937a;
+      border: none;
+      padding: 10px 25px;
+      border-radius: 25px;
+      color: white;
+      font-size: 17px;
+      transition: 0.3s;
+    }
+
+    .contact-form button:hover {
+      background-color: #e77e63;
+      transform: translateY(-3px);
+    }
+
+    iframe {
+      border-radius: 10px;
+      width: 100%;
+      height: 400px;
+    }
+  </style>
+</head>
+
+<body class="bg-light">
+
+  <div class="container py-5">
+
+    <!-- Page Title -->
+    <div class="text-center mb-5">
+      <h2>Contact Us</h2>
+      <p>We are here to help you, feel free to contact us.</p>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- LEFT SIDE : MAP -->
+      <div class="col-lg-6">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8573234033!2d-74.012053!3d40.707449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a3169cdc2b3%3A0xdc6142c1d8dd0d62!2sA108%20Adam%20St%2
